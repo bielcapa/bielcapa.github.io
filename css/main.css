@@ -181,6 +181,7 @@ body > section {
 
 .navbar>.container .navbar-brand{
   margin-left: 0;
+  margin-bottom: 5px;
 }
 
 .top-bar {
